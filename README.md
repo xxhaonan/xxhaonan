@@ -33,7 +33,7 @@
 <div align="center">
 <!--   <a href="https://nonejou072.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
 <!--   <a href="https://space.bilibili.com/19446641/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
-  <a href="[https://blog.csdn.net/qq_43557907](https://blog.csdn.net/x1haonan)/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+  <a href="https://blog.csdn.net/x1haonan/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 <!--   <a href="https://www.zhihu.com/people/shi-ran-8-72/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
   <!-- visitor statistics logo 访客数统计徽标 -->
 <!--   <img src="https://komarev.com/ghpvc/?username=NoneJou072&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
