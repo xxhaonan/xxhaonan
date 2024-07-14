@@ -1,4 +1,4 @@
-### <div align="center">I'm haonan, a student and developer 💻</div>  
+### <div align="center">I'm Haonan, a student and developer 💻</div>  
   
 
 - 🔭 I’m currently studying in China  
@@ -44,7 +44,7 @@
 
 
 ## <div align="center"> Github Stats </div>   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NoneJou072&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xxhaonan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
