@@ -1,4 +1,4 @@
-### <div align="center">I'm Modality, a student and developer 💻</div>  
+### <div align="center">I'm Haonan, a student and developer 💻</div>  
   
 
 - 🔭 I’m currently studying in China  
