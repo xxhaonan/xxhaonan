@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying in China  
   
 
-- 🌱 I’m currently learning robotic manipulation & aviation control
+- 🌱 I’m currently learning robotic manipulation
   
 
 - ❓ Ask me about anything related to my works 
